@@ -1,7 +1,7 @@
-# LectureIQ
+# LectureLens
 
 Lecture intelligence. A semester of lectures is hours of unstructured audio.
-LectureIQ turns that into answers you can trust: every answer cites the lecture
+LectureLens turns that into answers you can trust: every answer cites the lecture
 and the exact timestamp it came from, with a link straight to that moment.
 
 ```
